@@ -1,1 +1,2 @@
-# iBTCore
+iBTCore
+International Blockchain Treasury Core
