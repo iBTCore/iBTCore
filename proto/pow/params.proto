@@ -1,8 +1,0 @@
-syntax = "proto3";
-package pow;
-
-option go_package = "github.com/ibtcore/ibtcore/x/pow/types;types";
-
-message Params {
-  uint64 difficulty = 1;
-}
