@@ -1,5 +1,0 @@
-# Go
-bin/
-*.exe
-*.log
-vendor/
